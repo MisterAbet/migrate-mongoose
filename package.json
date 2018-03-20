@@ -23,7 +23,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/balmasi/migrate-mongoose.git"
+    "url": "https://github.com/MisterAbet/migrate-mongoose.git"
   },
   "dependencies": {
     "babel-cli": "^6.18.0",
